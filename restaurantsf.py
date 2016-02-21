@@ -1,4 +1,4 @@
-print('Mahamadou Sylla ID: 61549479 and Jesus Madrigal ID: 71498757 ICS 31 sec 8 Lab Asst 5')
+print('Mahamadou Sylla')
 
 __author__ = 'dgk'
 
