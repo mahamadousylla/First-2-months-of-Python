@@ -1,4 +1,4 @@
-print('Mahamadou Sylla ID: 61549479 and Ganeshram Chockalingam 32698725  ICS 31 Lab sec 8. Lab Asst 9')
+print('Mahamadou Sylla')
 
 Grades = ['A', 'B', 'C', 'D', 'E']
 NUMBER_OF_STUDENTS = 200
