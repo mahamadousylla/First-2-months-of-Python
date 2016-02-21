@@ -1,4 +1,4 @@
-print('Mahamadou Sylla 61549479 and Jesus Madrigal ID: 71498757 ICS 31 Lab sec 8 Asst 5')
+print('Mahamadou Sylla')
 
 
 
