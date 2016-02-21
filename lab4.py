@@ -1,4 +1,4 @@
-print('Mahamadou Sylla 61549479 and Peter Noh 34951962 ICS 31 Lab Asst 4')
+print('Mahamadou Sylla')
 
 print()  # Leaves a blank line.  print('\n') leaves two blank lines.
 print()
